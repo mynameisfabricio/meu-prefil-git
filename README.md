@@ -1,6 +1,6 @@
 ## Prefil de Fabricio
 
-Olá! Sou Desenvolvimento de Software do Senai.
+Olá! Sou Desenvolvedor de Software do Senai.
 
 - **Localização:** Fortaleza, Ceará
 

@@ -9,3 +9,11 @@ Olá! Sou um estudante de Desenvolvimento de Software do Senai.
 - Tecnologia
 - Games
 - Musica
+
+## Tecnologias
+
+|Tecnologias | Nivel|
+|HTML | Iniciante|
+|CSS | Iniciante|
+|JavaScript | Iniciante|
+|Python | Básico|

@@ -1,6 +1,6 @@
 ## Prefil de Fabricio
 
-Olá! Sou um estudante de Desenvolvimento de Software do Senai.
+Olá! Sou Desenvolvedor de Software do Senai.
 
 - **Localização:** Fortaleza, Ceará
 
@@ -9,3 +9,11 @@ Olá! Sou um estudante de Desenvolvimento de Software do Senai.
 - Tecnologia
 - Games
 - Musica
+
+## Tecnologias
+
+|Tecnologias | Nivel|
+|HTML | Iniciante|
+|CSS | Iniciante|
+|JavaScript | Iniciante|
+|Python | Básico|
